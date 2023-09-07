@@ -14,6 +14,6 @@ La primera vez de uso te logueas con correo y contraseña, y luego queda guardad
 
 y luego de loguearte preguntará por la url, ejemplo: https://play.cine.ar/INCAA/produccion/8054
 
-Entonces reconocerá si es película y serie, autonombrará los archivos con la infrmación en línea de episodio, titulo, año, etc.
+Entonces reconocerá si es película y serie, autonombrará los archivos con la información en línea de episodio, titulo, año, etc.
 
 Finalmente los archivos se descargarán a "C:\Downloads"
