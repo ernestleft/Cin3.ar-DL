@@ -6,6 +6,10 @@ Necesita que tengas "N_m3u8DL" (https://github.com/nilaoda/N_m3u8DL-CLI/releases
 
 Importante que al descargar "N_m3u8DL" llega con el número de la version en el nombre "N_m3u8DL-CLI_v3.0.2.exe" y hay que renombrar a "N_m3u8DL.exe"  específicamente para que el script funcione (o modificar las partes del script para que haga referencia al nombre correcto del programa igual a como esta guardado).
 
+Para funcionar debes tener python instalado y ejecutas:
+
+#python cinedl.py
+
 La primera vez de uso te logueas con correo y contraseña, y luego queda guardado el token en "C:\Users\USER\" en un archivo llamado "tkn.txt"
 
 y luego de loguearte preguntará por la url, ejemplo: https://play.cine.ar/INCAA/produccion/8054
