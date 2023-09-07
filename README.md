@@ -8,7 +8,7 @@ Importante que al descargar "N_m3u8DL" llega con el número de la version en el 
 
 Para funcionar debes tener python instalado y ejecutas:
 
-#python cinedl.py
+# python cinedl.py
 
 La primera vez de uso te logueas con correo y contraseña, y luego queda guardado el token en "C:\Users\USER\" en un archivo llamado "tkn.txt"
 
