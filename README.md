@@ -1,4 +1,4 @@
-# Cinedl.ar
+# Cin3.ar-DL
 
 Script para descargar de Cine AR lo estoy probando pero parece funcionar bien, tanto para películas, como series, todos los episodios que estén.
 
